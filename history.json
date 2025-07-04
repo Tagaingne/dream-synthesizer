@@ -1,0 +1,93 @@
+[
+  {
+    "timestamp": "2025-07-03T18:12:33.128395",
+    "text": " Alors, alors, alors, bonjour, je viens de me réveiller, il est 14h et depuis le matin, je n'arrive à rien faire alors qu'il y a une TP à rendre demain avant 17h. Et là, je suis dans la merde, moi, je suis dans la merde. Est-ce que tu peux me regarder ?",
+    "emotions": {
+      "heureux": 0.0005963208065139654,
+      "anxieux": 0.6539451694840157,
+      "triste": 0.08850185473333395,
+      "en_colere": 0.004406247892291261,
+      "fatigue": 0.24057298350654382,
+      "apeure": 0.011977423577301301
+    },
+    "image_path": "dream_image.png"
+  },
+  {
+    "timestamp": "2025-07-03T19:14:05.538561",
+    "text": " Alors, alors, alors, bonjour, je viens de me réveiller, il est 14h et depuis le matin, je n'arrive à rien faire alors qu'il y a une TP à rendre demain avant 17h. Et là, je suis dans la merde, moi, je suis dans la merde. Est-ce que tu peux me regarder ?",
+    "emotions": {
+      "heureux": 0.0005963208065139654,
+      "anxieux": 0.6539451694840157,
+      "triste": 0.08850185473333395,
+      "en_colere": 0.004406247892291261,
+      "fatigue": 0.24057298350654382,
+      "apeure": 0.011977423577301301
+    },
+    "image_path": "dream_image.png"
+  },
+  {
+    "timestamp": "2025-07-03T19:20:55.130687",
+    "text": " Alors, alors, alors, bonjour, je viens de me réveiller, il est 14h et depuis le matin, je n'arrive à rien faire alors qu'il y a une TP à rendre demain avant 17h. Et là, je suis dans la merde, moi, je suis dans la merde. Est-ce que tu peux me regarder ?",
+    "emotions": {
+      "heureux": 0.0005963208065139654,
+      "anxieux": 0.6539451694840157,
+      "triste": 0.08850185473333395,
+      "en_colere": 0.004406247892291261,
+      "fatigue": 0.24057298350654382,
+      "apeure": 0.011977423577301301
+    },
+    "image_path": "dream_image.png"
+  },
+  {
+    "timestamp": "2025-07-03T19:26:23.735682",
+    "text": " Alors, alors, alors, bonjour, je viens de me réveiller, il est 14h et depuis le matin, je n'arrive à rien faire alors qu'il y a une TP à rendre demain avant 17h. Et là, je suis dans la merde, moi, je suis dans la merde. Est-ce que tu peux me regarder ?",
+    "emotions": {
+      "heureux": 0.0005963208065139654,
+      "anxieux": 0.6539451694840157,
+      "triste": 0.08850185473333395,
+      "en_colere": 0.004406247892291261,
+      "fatigue": 0.24057298350654382,
+      "apeure": 0.011977423577301301
+    },
+    "image_path": "dream_image.png"
+  },
+  {
+    "timestamp": "2025-07-03T19:28:39.597646",
+    "text": " Alors, alors, alors, bonjour, je viens de me réveiller, il est 14h et depuis le matin, je n'arrive à rien faire alors qu'il y a une TP à rendre demain avant 17h. Et là, je suis dans la merde, moi, je suis dans la merde. Est-ce que tu peux me regarder ?",
+    "emotions": {
+      "heureux": 0.0005963208065139654,
+      "anxieux": 0.6539451694840157,
+      "triste": 0.08850185473333395,
+      "en_colere": 0.004406247892291261,
+      "fatigue": 0.24057298350654382,
+      "apeure": 0.011977423577301301
+    },
+    "image_path": "dream_image.png"
+  },
+  {
+    "timestamp": "2025-07-04T07:27:17.073759",
+    "text": " Alors, alors, alors, bonjour, je viens de me réveiller, il est 14h et depuis le matin, je n'arrive à rien faire alors qu'il y a une TP à rendre demain avant 17h. Et là, je suis dans la merde, moi, je suis dans la merde. Est-ce que tu peux me regarder ?",
+    "emotions": {
+      "heureux": 0.0005963208065139654,
+      "anxieux": 0.6539451694840157,
+      "triste": 0.08850185473333395,
+      "en_colere": 0.004406247892291261,
+      "fatigue": 0.24057298350654382,
+      "apeure": 0.011977423577301301
+    },
+    "image_path": "dream_image.png"
+  },
+  {
+    "timestamp": "2025-07-04T09:04:02.452348",
+    "text": " Il était une fois, quelqu'un quitta son pays pour en payer très longtemps, loin de sa mère, et elle lui manque.",
+    "emotions": {
+      "heureux": 0.0022865507704183797,
+      "anxieux": 0.045926599925981575,
+      "triste": 0.9224604185697709,
+      "en_colere": 0.006215489409077312,
+      "fatigue": 0.016895451915674507,
+      "apeure": 0.006215489409077312
+    },
+    "image_path": "dream_image.png"
+  }
+]
