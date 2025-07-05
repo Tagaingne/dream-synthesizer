@@ -1,4 +1,8 @@
-groq
-mistralai
-python-dotenv
+streamlit
+streamlit-webrtc
+matplotlib
+av
 requests
+groq
+python-dotenv
+ffmpeg-python
